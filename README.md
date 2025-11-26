@@ -1,2 +1,2 @@
 engineering @ [opto investments](https://optoinvest.com/)  
-research @ [ava lab](https://larryheck.github.io/avalab/)  
+prev research @ [ava lab](https://larryheck.github.io/avalab/)  
